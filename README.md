@@ -4,9 +4,24 @@
 
 **LexRank Journalist · Houdini Heuristic · Dysfunctional Artist · Rx Analyst**
 
-[Repositories](https://github.com/SHHSSH?tab=repositories) · [Categorized Stars](https://github.com/SHHSSH/awesome-stars) · [GitHub Stars](https://github.com/SHHSSH?tab=stars)
+**351 public repositories · 936 categorized stars · 19 public subject Lists**
+
+[Repositories](https://github.com/SHHSSH?tab=repositories) · [Categorized Stars](https://github.com/SHHSSH/awesome-stars) · [Native Star Lists](https://github.com/SHHSSH?tab=stars)
 
 </div>
+
+## Pinned highlights
+
+| Repository | Category | Description | Language |
+|---|---|---|---:|
+| [SHHSSH/awesome-stars](https://github.com/SHHSSH/awesome-stars) | 📚 Learning Resources | A curated list of my GitHub stars! | — |
+| [SHHSSH/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/SHHSSH/Crypto-OpSec-SelfGuard-RoadMap) | 📚 Learning Resources | Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome. | — |
+| [SHHSSH/DeFi-Developer-Road-Map](https://github.com/SHHSSH/DeFi-Developer-Road-Map) | 📚 Learning Resources | DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!  | JavaScript |
+| [piroor/treestyletab](https://github.com/piroor/treestyletab) | 🦊 Browser Tools | Tree Style Tab, Show tabs like a tree. | JavaScript |
+| [SHHSSH/Betterfox](https://github.com/SHHSSH/Betterfox) | 🦊 Browser Tools | Firefox user.js for speed, privacy, and security. Your favorite browser, but better. | JavaScript |
+| [piroor/tst-lock-tree-collapsed](https://github.com/piroor/tst-lock-tree-collapsed) | 🦊 Browser Tools | Add ability to lock specific tree as &quot;collapsed&quot;. | JavaScript |
+
+> External pinned projects are included here even when they are not starred.
 
 ## Repository index
 
@@ -82,11 +97,12 @@
 </details>
 
 <details>
-<summary><strong>🦊 Browser Tools</strong> (7)</summary>
+<summary><strong>🦊 Browser Tools</strong> (8)</summary>
 
 | Repository | Description | Language | Source |
 |---|---|---:|---:|
 | [agent-browser](https://github.com/SHHSSH/agent-browser) | Browser automation CLI for AI agents | — | Fork |
+| [Betterfox](https://github.com/SHHSSH/Betterfox) | Firefox user.js for speed, privacy, and security. Your favorite browser, but better. | — | Fork |
 | [control-panel-for-twitter](https://github.com/SHHSSH/control-panel-for-twitter) | Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile | — | Fork |
 | [ff-hist](https://github.com/SHHSSH/ff-hist) | Search Firefox history from commandline | — | Fork |
 | [Most-Recent-Tab](https://github.com/SHHSSH/Most-Recent-Tab) | Firefox addon that adds a keyboard shortcut to switch back to your most recently selected tab. Useful to alternate between two tabs and to easily go back to your last tab if you... | JavaScript | Fork |
@@ -97,7 +113,7 @@
 </details>
 
 <details>
-<summary><strong>🛡️ Cybersecurity</strong> (44)</summary>
+<summary><strong>🛡️ Cybersecurity</strong> (43)</summary>
 
 | Repository | Description | Language | Source |
 |---|---|---:|---:|
@@ -106,7 +122,6 @@
 | [AmsiHook](https://github.com/SHHSSH/AmsiHook) | AmsiHook is a project I created to figure out a bypass to AMSI via function hooking. | — | Fork |
 | [APC-Injector](https://github.com/SHHSSH/APC-Injector) | A simple POC to demonstrate how APC injection can be carried out with the windows API | — | Fork |
 | [Athena](https://github.com/SHHSSH/Athena) | An injector that aims to be stealthy by using non suspicious API calls. Inspired by (https://github.com/FuzzySecurity/Sharp-Suite/tree/master/UrbanBishop) | — | Fork |
-| [Betterfox](https://github.com/SHHSSH/Betterfox) | Firefox user.js for speed, privacy, and security. Your favorite browser, but better. | — | Fork |
 | [C3Mini-BlueJammer](https://github.com/SHHSSH/C3Mini-BlueJammer) | The C3Mini-BlueJammer (MINI FORMFACTOR) (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. It generates noise and unnecessary packets, causin... | — | Fork |
 | [CobaltStrike-Auto-Keystore](https://github.com/SHHSSH/CobaltStrike-Auto-Keystore) | Automate Cobalt Strike keystore file for Teamserver SSL. | — | Fork |
 | [DDoS-ByEmensta](https://github.com/SHHSSH/DDoS-ByEmensta) | DDoS attacks serve malicious purposes, such as disrupting online services, causing financial losses, damaging reputation, or as a smokescreen for other cybercrimes. The &quot;Py... | — | Fork |
@@ -511,4 +526,4 @@
 
 ---
 
-<sub>Repository organization is maintained with GitHub topics. Last refreshed 18 July 2026.</sub>
+<sub>Repository topics, profile pins, and star totals last refreshed 18 July 2026.</sub>
